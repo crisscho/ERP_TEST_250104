@@ -1,0 +1,18 @@
+# Python 가상환경
+venv/
+erp_venv/
+
+# Python 캐시 파일
+__pycache__/
+*.pyc
+
+# 운영체제 관련 파일
+.DS_Store
+Thumbs.db
+
+# VS Code 설정 파일
+.vscode/
+
+# SQLite 데이터베이스 (선택적으로 무시)
+db.sqlite3
+
